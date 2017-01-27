@@ -1,0 +1,664 @@
+.mc-wrapper {
+    width: 100%;
+
+    a:hover {
+        text-decoration: none;
+    }
+}
+
+.mc-page {
+    @media(min-width:$laptop) {
+        width: 95%;
+        margin: 0 auto;
+        @include wrap-stuff;
+    }
+    @media (min-width: $wrapper) {
+        width: 100%;
+    }
+
+
+    .mc-filter {
+        @media (min-width: $laptop) {
+            @include order(1);
+        }
+    }
+
+    .mc-hero {
+        @media (min-width: $laptop) {
+            @include order(2);
+        }
+    }
+    #mc-main {
+        @media (min-width: $laptop) {
+            @include order(3);
+        }
+    }
+}
+
+
+#mc-main {
+    @media (min-width: $laptop) {
+        width: 82%;
+        flex-basis: 82%;
+        margin: 0 auto;
+    }
+}
+
+#mc-main {
+    .mc-header {
+        @include wrap-stuff;
+        width: 94%;
+        margin: 0 auto;
+        min-height: 400px;
+
+        @media (min-width: $tablet) {
+            width: 95%;
+            margin: 0 auto;
+        }
+        @media (min-width: $laptop) {
+            width: 100%;
+        }
+
+        .mc-grid {
+            @media (min-width: $tablet) {
+                min-height: 550px;
+            }
+            .mc-product, .mc-sub {
+
+                @media (min-width: $tablet) {
+                    width: calc((100% - 30px) / 3);
+                }
+                @media (min-width: $wrapper) {
+                    width: calc((100% - 40px) / 4);
+                    margin-right: 10px;
+                }
+            }
+        }
+        .no-results {
+            h2, p {
+                font-family: $font-burin-roman-std;
+            }
+
+            h2 {
+                font-size: 30px;
+                @media (min-width: $tablet) {
+                    font-size: 60px;
+                }
+            }
+            p {
+                font-size: 14px;
+                @media (min-width: $tablet) {
+                    font-size: 15px;
+                }
+            }
+        }
+    }
+
+    &.mc-no-filter {
+        @media (min-width: $laptop) {
+            width: 100%;
+        }
+        .mc-header {
+            .mc-grid {
+                .mc-product, .mc-sub {
+                    @media (min-width: $laptop) {
+                        width: calc((100% - 40px) / 4);
+                        margin-right: 10px;
+                    }
+                    @media (min-width: $wrapper) {
+                        width: calc((100% - 50px) / 5);
+                        margin-right: 10px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.mc-filters {
+    margin-left: 2.5%;
+    width: 168px;
+
+    @media (min-width: $laptop) {
+        margin-left: 0;
+        width: 15%;
+        flex-basis: 15%;
+    }
+
+    .mc-trigger {
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        @media (min-width: $laptop) {
+            display: none;
+        }
+    }
+
+    &.stickytop {
+        position: fixed;
+        top: 0
+    }
+
+
+    &.active {
+        border-radius: 0;
+        background: $dk-brown;
+        color: $light-grey
+    }
+
+
+    p {
+        font-family: $font-burin-roman-alt;
+        font-size: 14px;
+        line-height: 28px;
+        text-align: center;
+        margin: 0 auto;
+        padding: 0 0 5px 0;
+        background: #928e84;
+        color: $light-grey;
+        text-transform: uppercase;
+        cursor: pointer;
+        @include transition(all 0.3s ease);
+        img {
+            width: 12px;
+            display: inline-block;
+            padding-bottom: 2px
+        }
+    }
+    .clear-filters {
+        cursor: pointer;
+        float: right;
+        font-size: 15px;
+        display: none
+    }
+    .x-clear {
+        background: #FFF none repeat scroll 0 0;
+        border: 1px solid $text-black;
+        color: $text-black;
+        font-family: Arial, sans-serif;
+        font-size: 10px;
+        margin-right: 5px;
+        padding: 2px 5px;
+
+        @media (min-width: $laptop) {
+            background: $text-black none repeat scroll 0 0;
+            border: 1px solid $text-black;
+            color: $white
+        }
+    }
+    .mc-filter-menu {
+        width: 216px;
+        padding: 20px;
+        position: absolute;
+        background: $dk-brown;
+        color: $light-grey;
+        z-index: 20;
+        visibility: hidden;
+        @include transform(translate(-260px, 0));
+        @include transition(transform 0.3s ease);
+
+        @media (min-width: $laptop) {
+            width: 100%;
+            //max-width: 200px;
+            position: static;
+            padding: 0 0 20px 0;
+            margin-top: 25px;
+            background: 0;
+            color: $text-black;
+            visibility: visible;
+            @include transform(translate(0, 0));
+            @include transition(all 0.3s ease);
+        }
+
+        h4 {
+            font-family: $font-burin-roman-std;
+            font-size: 16px;
+            font-weight: bold;
+            color: $light-grey;
+            margin: 24px 0 8px;
+            text-transform: uppercase;
+
+            @media (min-width: $laptop) {
+                color: $filter-text;
+            }
+            &:first-of-type {
+                margin-top: 0;
+            }
+            a {
+                color: $light-grey;
+
+                @media (min-width: $laptop) {
+                    color: $filter-text
+                }
+            }
+        }
+        hr {
+            margin-top: 0;
+            margin-bottom: 15px;
+            border-top: 1px solid $medium-grey;
+        }
+
+        .mc-sub-nav {
+            li {
+                margin: 0;
+                a {
+                    font-family: $font-burin-roman-std;
+                    font-size: 15px;
+                    line-height: 1.4;
+                    display: block;
+                    color: $light-grey;
+                    margin: 0 0 5px;
+
+                    @media (min-width: $laptop) {
+                        color: $filter-text;
+                    }
+                }
+                &.active {
+                    font-weight: bold;
+
+                    a {
+                        color: $noble-gold;
+                    }
+                }
+            }
+        }
+
+        .mc-size-filters, .mc-color-filters/*, .mc-price-filters*/ {
+            @include wrap-stuff;
+            margin: 0;
+            padding: 0;
+            list-style: none
+        }
+        .mc-size-filters/*, .mc-price-filters*/ {
+            li {
+                border: 1px solid $text-grey;
+                font-size: 12px;
+                padding: 4px 6px;
+                width: 40px;
+                margin-right: 4px;
+                margin-bottom: 4px;
+                text-align: center;
+                cursor: pointer;
+                &.active {
+                    border: 1px solid $black;
+                    background: $text-grey;
+                    @media (min-width: $laptop) {
+                        background: $medium-grey;
+                    }
+                }
+                a {
+                    color: $light-grey;
+
+                    @media (min-width: $laptop) {
+                        color: $filter-text;
+                    }
+                }
+            }
+            &:last-of-type {
+                margin-right: 0
+            }
+        }
+
+        .mc-color-filters {
+            li {
+                padding: 0 0 0 21px;
+                margin-right: 4px;
+                margin-bottom: 4px;
+                width: 40px;
+                height: 31px;
+                cursor: pointer;
+                &.active {
+                    border: 1px solid $black
+                }
+            }
+            &:last-of-type {
+                margin-right: 0
+            }
+        }
+        &.open {
+            @include transform(translate(0, 0));
+            visibility: visible;
+        }
+
+        .mc-price-filters {
+            display: block;
+            padding-left: 0;
+
+            li {
+                padding: 0;
+                border: 0;
+                text-align: left;
+                width: auto;
+                overflow: hidden;
+                font-family: $font-burin-roman-alt;
+                font-size: 15px;
+                line-height: 20px;
+                padding-left: 20px;
+                background: transparent url(html_templates/images/sherpa/catalog/radio-sprite-2.png) no-repeat 1px -49px;
+                background: transparent url(#{'{{ "radio-sprite-2.png" | asset_url }}'}) no-repeat 1px -49px;
+
+                margin: 6px 0 0 0;
+
+                @media (min-width: $laptop) {
+                    background: transparent url(html_templates/images/sherpa/catalog/radio-sprite-2.png) no-repeat 1px 4px;
+                    background: transparent url(#{'{{ "radio-sprite-2.png" | asset_url }}'})no-repeat 1px 4px;
+                }
+
+
+                &.active {
+                    border: 0;
+                    background: transparent url(html_templates/images/sherpa/catalog/radio-sprite-2.png) no-repeat 1px -75px;
+                    background: transparent url(#{'{{ "radio-sprite-2.png" | asset_url }}'})no-repeat 1px -75px;
+
+                    @media (min-width: $laptop) {
+                        background: transparent url(html_templates/images/sherpa/catalog/radio-sprite-2.png) no-repeat 1px -22px;
+                        background: transparent url(#{'{{ "radio-sprite-2.png" | asset_url }}'})no-repeat 1px -22px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+#mc-main {
+    @include transition(transform 0.3s ease);
+    &.open {
+        @include transform(translate(216px, 0));
+    }
+}
+.mc-header {
+
+    .no-results {
+        display: none
+    }
+    .mc-grid {
+        @include wrap-stuff;
+        width: 100%;
+        margin-top: 32px;
+
+        &.mc-grid-sub {
+            margin-top: 0
+        }
+        .mc-product, .mc-sub {
+            @include transition(all .5s ease);
+            width: calc((100% - 20px) / 2);
+            margin-right: 10px;
+            margin-bottom: 30px;
+            position: relative;
+
+            @media (min-width: $wrapper) {
+
+            }
+
+            h4 {
+                margin-bottom: 0;
+                font-family: $font-burin-roman-std;
+                font-size: 14px;
+                line-height:1.25;
+                color: $dark-grey;
+
+                @media (min-width: $mobile) {
+                    font-size: 16px;
+                }
+                span.new {
+                    color: $white;
+                    padding: 0 10px;
+                    margin-right: 5px;
+                    text-transform: uppercase
+                }
+            }
+            .price {
+                font-family: $font-burin-roman-std;
+                font-size: 14px;
+                line-height:1.25;
+                color: $dark-grey;
+
+                @media (min-width: $mobile) {
+                    font-size: 16px;
+                }
+                .compare-price {
+                    text-decoration: line-through;
+                    color: darkred;
+                }
+            }
+            a {
+                color: $text-black;
+                &.swap {
+                    display: inline;
+                    opacity: 0;
+                    position: absolute;
+                    left: 0;
+                    top: 0
+                }
+            }
+            .tag-button {
+                width: 23% !important;
+                position: absolute;
+                top: 5px;
+                display: inline;
+                right: 5px;
+                z-index: 1
+            }
+            .mc-color-swatches {
+                @include wrap-stuff;
+                margin: 10px 0 0;
+                padding: 0;
+                list-style: none;
+
+                li {
+                    padding: 0;
+                    margin-right: 4px;
+                    margin-bottom: 4px;
+                    width: 22px;
+                    height: auto;
+                    cursor: pointer;
+                    &.active {
+                        border: 1px solid $black
+                    }
+                }
+                &:last-of-type {
+                    margin-right: 0;
+                }
+            }
+
+            .cat-product-img-swap {
+                left: 0;
+                position: absolute;
+                top: 0
+            }
+
+            .cat-product-img {
+                position: relative
+            }
+            .mc-sub-thumb {
+                @include transition(all .5s ease);
+                box-shadow: inset 0 0 0 1000px rgba(255, 255, 255, 0.1);
+                width: 100%;
+                height: 165px;
+
+                @media (min-width: $mobile-wide) {
+                    height: 250px;
+                }
+            }
+        }
+        .mc-sub {
+            a {
+                line-height: 38px;
+                &:hover {
+                    .mc-sub-thumb {
+                        @include transition(all .5s ease);
+                        box-shadow: inset 0 0 0 1000px rgba(255, 255, 255, 0);
+                        background-size: 100% auto !important
+                    }
+                }
+            }
+            .mc-sub-title:after {
+                content: " \25B8"
+            }
+        }
+    }
+}
+
+.mc-top {
+    margin: 0 auto;
+
+    @media (min-width: $laptop) {
+        @include wrap-stuff;
+        margin: 0;
+        width: 100%;
+    }
+
+    .mc-breadcrumb {
+        font-family: $font-burin-roman-std;
+        font-size: 13px;
+        background: 0;
+        margin: 0 auto 0 2.5%;
+        padding-left: 0;
+
+        @media (min-width: $laptop) {
+            margin-top: 1px;
+            margin-bottom: 1px;
+            padding-left: 0;
+            padding-right: 0;
+        }
+
+        @media (min-width: $wrapper) {
+            margin-left: 0;
+        }
+
+        li a {
+            color: $text-black;
+        }
+    }
+    h1 {
+        margin-top: 0;
+        text-align: center
+    }
+    .mc-name {
+        display: none;
+        @media (min-width: $laptop) {
+            display: block;
+            width: 80%;
+            text-align: left;
+            margin-top: 20px;
+            margin-left: 20px;
+        }
+    }
+}
+.mc-hero {
+    margin: 0 0 0 auto;
+    @include align-items(center);
+
+    h2 {
+        margin: 0 0 10px 2.5%;
+        font-family: $font-burin-roman-std;
+        font-size: 20px;
+        text-transform: uppercase;
+
+        @media (min-width: $laptop) {
+            margin: 22px 0 0 0;
+            font-size: 28px;
+        }
+    }
+    hr {
+        margin-top: 20px;
+        margin-bottom: 15px;
+        border-top: 1px solid $medium-grey
+    }
+    .mc-hero-desc {
+        img:nth-child(1) {
+            display: none;
+            @media (min-width: $tablet) {
+                //display: block;
+            }
+        }
+        img:nth-child(2) {
+            @media (min-width: $tablet) {
+                display: none;
+            }
+        }
+    }
+
+    .mc-hero-headline {
+        @media (min-width: $tablet) {
+            margin-left: 5%;
+            h1 {
+                font-size: 56px
+            }
+            p {
+                margin-bottom: 30px
+            }
+            a {
+                @include transition(all .3s ease);
+                font-size: 13px;
+                font-style: normal;
+                color: $text-black;
+                padding: 4px 20px;
+                background: $light-grey;
+                letter-spacing: 2px;
+                text-transform: uppercase;
+
+                &:hover {
+                    padding: 8px 20px;
+                    border: 2px solid $orange;
+                    color: $light-grey;
+                    background: 0
+                }
+            }
+        }
+    }
+}
+
+/* collection section */
+
+.mc-hero .mc-hero-txt {
+    font: 15px/1.35 $font-burin-roman-std;
+    color: $grey;
+    margin: 12px 8% 18px 2.5%;
+
+    @media (min-width: $laptop) {
+        margin-left: 0.2%;
+        margin-bottom: 0;
+    }
+}
+section.mc-hero {
+
+    @media (min-width: $laptop) {
+        display: none;
+    }
+}
+div.mc-hero {
+    display: none;
+    @media (min-width: $laptop) {
+        display: block;
+    }
+}
+
+#mc-banner {
+    @media (max-width: $tablet - 1) {
+        width: 100%;
+        padding-bottom: 60%;
+        background-size: cover;
+    }
+    @media (min-width: $mobile) {
+        padding-bottom: 47%;
+    }
+    @media (min-width: $tablet) {
+        padding-bottom: 0;
+    }
+    img {
+        display: none;
+        @media (min-width: $tablet) {
+            display: block;
+            width: 100%;
+        }
+    }
+}
+div.mc-page {
+    @media(min-width: $laptop) {
+        margin: 7px auto 0;
+    }
+}

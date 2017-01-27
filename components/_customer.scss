@@ -1,0 +1,243 @@
+#customer-wrapper {
+    font-family: $font-burin-roman-std;
+    color: #555555;
+    min-height: 400px;
+    margin: 20px auto;
+    width: 95%;
+    @media(min-width:$tablet) {
+        @include wrap-stuff();
+    }
+    @media(min-width:$wrapper) {
+        width: 100%;
+    }
+    h1 {
+        color: $sherpa-red;
+        font-size: 28px;
+        text-transform: uppercase;
+        margin-top: 0;
+        a {
+            color: $text-black;
+            &:hover {
+                text-decoration: none
+            }
+        }
+    }
+    h2 {
+        font-size: 26px;
+        text-transform: uppercase
+    }
+    h4 {
+        font-size: 23px;
+        text-transform: uppercase;
+    }
+    h5 {
+        font-size: 18px;
+        text-transform: uppercase;
+        font-weight: 900
+    }
+    input[type=text], input[type=email], input[type=password], input[type=number] {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px
+    }
+    input[type=submit] {
+        @include transition(all .5s ease);
+        margin-left: 0;
+        width: 100%;
+        background: $sherpa-red;
+        @media(min-width:$tablet) {
+            padding: 12px 40px;
+            width: auto;
+        }
+    }
+    select {
+        padding: 10px;
+        display: block;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    label {
+        font-weight: normal;
+        &.checkbox {
+            margin-top: 10px
+        }
+    }
+    .errors {
+        background: $error-red;
+        padding: 10px;
+        color: white;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        ul {
+            list-style: none;
+            margin-bottom: 0;
+            padding-left: 0
+        }
+    }
+    p {
+        font-family: $font-burin-roman-std;
+        margin-bottom: 0;
+    }
+    table {
+        max-width: 700px
+    }
+    a.submit {
+        margin-top: 20px;
+        margin-left: 0;
+        display: block;
+        text-align: center;
+        &:hover {
+            text-decoration: none
+        }
+    }
+    .required {
+        color: $sherpa-red;
+    }
+    .box {
+        background: #f2f1f0 none repeat scroll 0 0;
+        padding: 27px;
+        width: 100%;
+        @media(min-width: $tablet) {
+            width: 48%;
+        }
+        &.right {
+            background: #f2f1f0 url(#{'{{ "customer_account_background.jpg" | asset_url }}'})  no-repeat scroll right bottom / cover;
+            @media(min-width: $tablet) {
+                margin-left: 4%;
+            }
+        }
+    }
+    #admin_header {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .action_bottom {
+        margin-top: 20px
+    }
+    .customer_info {
+        @include wrap-stuff;
+        width: 100%;
+        #customer_sidebar {
+            @include transition(all .5s ease);
+            width: 100%;
+            @media(min-width:$tablet) {
+                width: calc(40% - 10px) !important;
+                margin-right: 10px
+            }
+        }
+        #customer_orders {
+            @include transition(all .5s ease);
+            width: 100%;
+            margin-top: 50px;
+            @media(min-width:$tablet) {
+                width: calc(60% - 10px) !important;
+                margin-left: 10px
+            }
+            .right {
+                background: none;
+            }
+            a {
+                color: $sherpa-red;
+                text-decoration: underline;
+                font-weight: 900
+            }
+        }
+        a {
+            color: $sherpa-red
+        }
+    }
+    #view_address {
+        color: $white;
+    }
+    .cancelled {
+        width: 100%;
+        background: $error-red;
+        padding: 13px;
+        color: white;
+        margin-top: 10px;
+        @media(min-width:$mobile-wide) {
+            width: calc(50% - 10px) !important
+        }
+        h5 {
+            margin-top: 0
+        }
+    }
+    #order_address {
+        @include wrap-stuff;
+        margin-top: 10px;
+        h5 {
+            margin-top: 0
+        }
+        #order_payment, #order_shipping {
+            @include transition(all .5s ease);
+            width: 100%;
+            margin-bottom: 20px;
+            @media(min-width:$mobile-wide) {
+                margin-bottom: 0;
+                width: calc(50% - 10px) !important;
+                margin-right: 10px;
+                border: 1px solid $medium-grey;
+                padding: 10px
+            }
+            #order_shipping {
+                @media(min-width:$mobile-wide) {
+                    margin-right: 0;
+                    margin-left: 10px
+                }
+            }
+        }
+    }
+    table#order_details {
+        max-width: 100%;
+        margin-top: 10px;
+        tbody {
+            border-bottom: 1px solid $medium-grey
+        }
+        a {
+            color: $text-black;
+            font-weight: 900
+        }
+        th {
+            background: #46443f !important;
+        }
+        td {
+            background: #FFF !important;
+        }
+    }
+}
+
+#customer_login, #customer-wrapper #recover-password, #customer-wrapper #create_customer, #customer-wrapper #address_form_new {
+    label {
+        width: 100%
+    }
+    .small {
+        font-size: 12px;
+        font-weight: normal
+    }
+    #forgot_password {
+        width: 100%;
+        text-align: right;
+        margin-top: 5px;
+        a {
+            color: $sherpa-red
+        }
+    }
+}
+
+
+.customer_address {
+    input[type="submit"] {
+        width: 189px !important;
+        margin-right: 20px;
+    }
+    label {
+        color: #333;
+        font-size: 16px;
+        margin-left: 20px;
+        margin-top: 20px;
+        text-align: left;
+    }
+    .address_form {
+        margin-bottom: 0 !important;
+    }
+}

@@ -1,0 +1,138 @@
+// Footer styles
+footer {
+    width: 100%;
+    clear: both;
+    background: #f4f4f2 url(html_templates/Sherpa/images/sherpa_swirly_bg_white.jpg) bottom center no-repeat;
+    background: #f4f4f2 url(#{'{{ "sherpa_swirly_bg_white.jpg" | asset_url }}'}) bottom center no-repeat;
+
+    h4 {
+        font-size: 14px;
+        text-transform: uppercase;
+        font-family: $font-georgia-std;
+    }
+
+    ul li a, p {
+        font-size: 12px;
+        letter-spacing: 0.5px;
+        color: #44403f;
+        padding-top: 5px;
+        font-family: $font-myriad-pro;
+        line-height: 26px;
+    }
+    a:hover {
+        color: $sherpa-red;
+    }
+    .social {
+        width: 100%;
+        text-align: center;
+        padding: 20px 0;
+        @media (min-width: $tablet-wide) {
+            padding: 40px 0;
+        }
+        img {
+            padding: 0 5px;
+        }
+    }
+    .logo {
+        display: none;
+        text-align: center;
+        @include media($tablet-wide) {
+            display: block;
+            @include span-columns(3);
+        }
+        img {
+            width: 90%;
+            max-width: 218px;
+        }
+    }
+    .links {
+        @include span-columns(6);
+        @include omega;
+        @media (min-width: $mobile-wide) {
+            @include span-columns(3);
+        }
+        @include media($tablet-wide) {
+            @include span-columns(2);
+        }
+    }
+
+    .newsletter {
+        @include span-columns(12);
+        @include omega;
+        @media (min-width: $mobile-wide) {
+            @include span-columns(6);
+        }
+        @include media($tablet-wide) {
+            @include span-columns(4);
+        }
+
+        form {
+            input.newsletter-input, input.newsletter-button {
+                padding: 10px 20px;
+                letter-spacing: 1px;
+                border: 0;
+
+            }
+            input.newsletter-input {
+                width: 100%;
+                -webkit-box-shadow: inset 2px 2px 2px 0px #dddddd;
+                -moz-box-shadow: inset 2px 2px 2px 0px #dddddd;
+                box-shadow: inset 2px 2px 2px 0px #dddddd;
+                margin-right: -4px;
+                font-family: $font-myriad-pro;
+                font-size: 13px;
+                @media(min-width: $mobile-wide) {
+                    width: calc(100% - 100px);
+                }
+            }
+            input.newsletter-button {
+                width: 100%;
+                background: $sherpa-red;
+                color: $white;
+                text-transform: uppercase;
+                margin-left: 0;
+                margin-top: 10px;
+                font-family: $font-burin-roman-std;
+                @media(min-width: $mobile-wide) {
+                    width: 100px;
+                }
+            }
+        }
+
+    }
+    .footer-bottom {
+        margin-top: 60px;
+        border-top: 1px solid #8e8e8e;
+        color: $text-grey;
+        font-weight: lighter;
+        padding: 5px 0;
+
+        .copyright {
+            @include span-columns(12);
+            p {
+                text-align: right;
+                font-size: 12px;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                padding-top: 5px
+            }
+            ul {
+                float: right;
+                li {
+                    float: left;
+                    margin-left: 10px;
+                    @media(min-width: $mobile-wide) {
+                        margin-left: 15px;
+                    }
+                    &:first-child {
+                        margin-left: 0;
+                    }
+                }
+            }
+            a {
+                color: #999999;
+            }
+        }
+    }
+}
+

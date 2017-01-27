@@ -1,0 +1,105 @@
+.cart {
+    width: 95%;
+    margin: 0 auto;
+    min-height: 400px;
+    @media(min-width:$wrapper) {
+        width: 100%;
+        margin: 0;
+    }
+    h1 {
+        font-size: 30px;
+        text-transform: uppercase;
+        color: $sherpa-red;
+
+    }
+    #cartform {
+        a {
+            color: $text-black
+        }
+        input[type="text"] {
+            width: 22px;
+            padding: 5px
+        }
+        #basket {
+            width: 100%;
+            font-family: $font-burin-roman-std;
+            tr {
+                border-bottom: 1px solid $medium-grey;
+                @media(min-width:$wrapper) {
+                    border-right: 1px solid $medium-grey;
+                    border-left: 1px solid $medium-grey
+                }
+                .title a {
+                    color: $sherpa-red;
+                    font-size: 20px;
+                }
+                p {
+                    margin-bottom: 0
+                }
+            }
+            th {
+                background: $dk-brown;
+                color: $light-grey
+            }
+            th, td {
+                padding: 6px 4px;
+                vertical-align: top;
+                &.thumb {
+                    @include transition(all .5s ease);
+                    width: 30px;
+                    @media(min-width: $tablet) {
+                        width: 80px !important;
+                    }
+                }
+
+                &:first-child {
+                    display: none;
+                    @media(min-width:$tablet) {
+                        display: table-cell;
+                    }
+                }
+            }
+        }
+        #basket-right {
+            @include transition(all .5s ease);
+            width: 100%;
+            @media(min-width:$tablet) {
+                width: 60% !important;
+                float: right
+            }
+            @media(min-width:$laptop) {
+                width: 30% !important;
+            }
+            h3 {
+                text-align: right;
+                font-size: 24px;
+            }
+            .options {
+                margin-top: 20px;
+                float: right;
+                width: 100%;
+                @media(min-width:$laptop) {
+                    width: 50% !important
+                }
+                .payment-method {
+                    text-align: center;
+                    border-bottom: 1px solid $medium-grey;
+                    margin-bottom: 15px
+                }
+                .more-checkout {
+                    text-align: center
+                }
+            }
+        }
+        input[type="submit"] {
+            width: calc(50% - 5px);
+            float: left;
+            margin-right: 5px;
+            margin-left: 0;
+            &:last-of-type {
+                margin-right: 0;
+                margin-left: 5px
+            }
+        }
+    }
+}

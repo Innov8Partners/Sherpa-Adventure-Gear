@@ -1,0 +1,68 @@
+body {
+    overflow-x: hidden;
+    overflow-y: visible;
+    width: 100%;
+    position: relative;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 15px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $font-burin-roman-std;
+}
+h1 {
+    font-size: 80px;
+}
+h2 {
+    font-size: 60px;
+}
+h3 {
+    font-size: 40px;
+}
+h4 {
+    font-size: 35px;
+}
+h5 {
+    font-size: 30px;
+}
+h6 {
+    font-size: 25px;
+}
+p {
+    font-family:$font-times-new-roman;
+    font-size: 16px;
+}
+a,a:hover,a:focus,a:active {
+    outline: 0;
+    text-decoration: none;
+}
+.container {
+    margin: 0 auto;
+    width: 100%;
+    position: relative;
+    @media(min-width: $wrapper) {
+        width: $wrapper
+    }
+}
+.wrap {
+    @include wrap-stuff();
+}
+.wrapper {
+    width: 100%;
+    max-width: $wrapper;
+    @media(min-width:$tablet) {
+        margin: 0 auto;
+    }
+}
+main {
+    margin-top: 52px;
+    @media(min-width:$tablet) {
+        margin-top: 0
+    }
+    &.fixed {
+        @media(min-width:$tablet) {
+            margin-top: 112px;
+        }
+    }
+}
