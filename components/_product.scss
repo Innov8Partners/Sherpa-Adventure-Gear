@@ -240,14 +240,43 @@ section.mp-right {
         #our_price {
             font: 32px/54px $font-burin-roman-std;
             color: $dark-grey;
-            border-bottom: 1px solid $medium-grey;
+            //border-bottom: 1px solid $medium-grey;
             margin: 0;
+            .red.compare-price {
+                color: $sherpa-red;
+                text-decoration: line-through;
+            }
         }
 
         .mp-form {
             margin: 10px 0 0 0;
-        }
 
+            .price {
+                font-size: 23px;
+                font-family: $font-burin-roman-std;
+                margin-top: 5px;
+            }
+            h3 {
+                display: inline-block;
+                font-size: 28px;
+            }
+            h4 {
+                display: inline-block;
+                font-size: 28px;
+                margin-left: 10px;
+            }
+            .strike {
+                color: $sherpa-red !important;
+                text-decoration: line-through;
+            }
+        }
+        .link-details {
+            display: block;
+            margin-top: 20px;
+            color: $text-dark-grey;
+            text-transform: uppercase;
+            font-family: $font-burin-roman-std;
+        }
 
 
         h2 {
@@ -444,6 +473,13 @@ section.mp-right {
     #product-variants, .selector-wrapper {
         display: none
     }
+    .qty-wrapper {
+        label {
+            font-weight: normal;
+            font-size: 15px;
+            font: 15px/1 $font-burin-roman-std;
+        }
+    }
 }
 
 
@@ -569,7 +605,6 @@ section.mp-right {
 
 // Product Form
 form.product {
-
     select {
         border: 1px solid $medium-grey;
         width: 65px;
@@ -578,7 +613,9 @@ form.product {
         float: left;
         font-size: 16px;
         @include appearance(none);
-        border-radius: 0
+        border-radius: 0;
+        padding-left: 15px;
+        margin-right: 10px;
     }
 
     p#prod-quant {

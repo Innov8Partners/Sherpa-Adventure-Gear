@@ -2,397 +2,321 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="836621c5-9433-471f-963d-276286d0ea9a" name="Default" comment="Sherpa Adventure Gear">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/7444034203.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/7444034203.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/7444034203.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/7444034203.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/7444034203.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/Burin Roman Std Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/BurinRomanAlt_2AE5CA_3_0.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/BurinRomanAlt_2AE5CA_3_0.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/BurinRomanAlt_2AE5CA_3_0.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/BurinRoman_2AE5CA_2_0.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/BurinRoman_2AE5CA_2_0.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/BurinRoman_2AE5CA_2_0.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/HandleOldStyle_2AE5CA_0_0.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/HandleOldStyle_2AE5CA_0_0.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/HandleOldStyle_2AE5CA_0_0.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/HandleOldstyleAlt_2AE5CA_1_0.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/HandleOldstyleAlt_2AE5CA_1_0.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/HandleOldstyleAlt_2AE5CA_1_0.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/Sherpa--Adventure-Gear-Fund.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/arrow_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/arrow_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/banner_everest_ready_collection.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/banner_himalayan_collection.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/boxes_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/boxes_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/boxes_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/boxes_icons1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/btn_arrow_red_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/btn_arrow_red_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/close_youtube.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/endless-knot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/featured_1_image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/featured_2_image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/female.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/girl_circle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/hat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/home_banner_find_dealer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/home_banner_making_difference_left.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/home_banner_making_difference_right.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/home_banner_weaving_support_left.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/home_banner_weaving_support_right.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/home_instagram_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/home_instagram_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/home_instagram_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/home_instagram_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/home_instagram_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/home_instagram_bg_mountains.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/home_main_banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/icon1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/icon2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/icon3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/icon_basket.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/icon_basket.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/icon_book.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/icon_facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/icon_facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/icon_flag_us.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/icon_instagram.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/icon_instagram.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/icon_map_pointer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/icon_nepal.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/icon_phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/icon_search_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/icon_search_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/icon_sewing_machine.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/icon_twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/icon_twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/icons_background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/icons_find_dealer.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/icons_social.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/male.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/male_female.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/measuring-tape.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/mockup-definition.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/mockup-defintion.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/mockup-size-chart.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/mockup.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/play_button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/review-stars.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_category_accessories.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_category_baselayer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_category_bottoms.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_category_outerwear.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_category_tops.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_featured_product1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_featured_product2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_featured_product3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_featured_product4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_featured_product5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_home_clothing_spread.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_home_clothing_spread_cropped.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_home_clothing_spread_darker.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_home_mountain_view.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_home_mountain_view_cropped.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_home_mountain_view_darker.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_home_nepal_generations.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_home_nepal_generations_cropped.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_home_nepal_generations_darker.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_logo_horizontal.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/sherpa_logo_horizontal.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_logo_horizontal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_logo_no_text.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/sherpa_logo_no_text.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_logo_vertical.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/sherpa_logo_vertical.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_shop_mens.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_shop_womens.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_swirly_bg_red.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/sherpa_swirly_bg_red.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa_swirly_bg_white.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/sherpa_swirly_bg_white.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/slide1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/slide10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/slide11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/slide12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/slide2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/slide3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/slide4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/slide5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/slide6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/slide7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/slide8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/slide9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/tech-icon-antimicrob.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/tech-icon-durable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/tech-icon-hand-crafted.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/tech-icon-harness-compatible.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/tech-icon-helmet-compatible.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/tech-icon-made-nepal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/tech-icon-media.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/tech-icon-packable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/tech-icon-quick-drying.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/tech-icon-seam-sealed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/tech-icon-sun-protection.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/tech-icon-superior-wicking.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/tech-icon-waterproof-zippers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/tech-icon-waterproof.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/tech-icon-windproof.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/thumb1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/product/thumb2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/top_little_image1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/top_little_image2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/top_little_image3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/top_little_image4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/torn-edge.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/white_box_window.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/images/sherpa-fund/youtube_top_image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/fonts/7444034203.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Sherpa Adventure Gear.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_alerts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_alerts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_animation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_appearance.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/settings/_asset-pipeline.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/functions/_assign-inputs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_backface-visibility.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_background-image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_background-variant.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_background.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_badges.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_base.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/_bootstrap-compass.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/_bootstrap-mincer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/_bootstrap-sprockets.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/_bootstrap.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_border-color.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_border-image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_border-radius.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_border-radius.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_border-style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_border-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/_bourbon-deprecated-upcoming.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/_bourbon.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/grid/_box-sizing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_breadcrumbs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/base/_breakpoints.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_button-groups.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_calc.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_carousel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_cart.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_center-block.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_clearfix.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_clearfix.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_close.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_code.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_collection.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_columns.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_component-animations.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/functions/_contains-falsy.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/functions/_contains.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/helpers/_convert-units.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_customer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/grid/_direction-context.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/helpers/_directional-values.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/settings/_disable-warnings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/grid/_display-context.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_dropdowns.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_ellipsis.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_fancybox.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/grid/_fill-parent.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_filter.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_flex-box.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_font-face.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_font-feature-settings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/helpers/_font-source-declaration.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_font-stacks.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_fonts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_fonts_dev.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_glyphicons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/helpers/_gradient-positions-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_gradients.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_grid-framework.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/settings/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_header.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_hide-text.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_hide-text.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_hidpi-media-query.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_home.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_hyphens.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_image-rendering.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_input-groups.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/functions/_is-length.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/functions/_is-light.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/functions/_is-number.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/functions/_is-size.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_jumbotron.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_keyframes.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_labels.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_labels.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/helpers/_linear-angle-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/helpers/_linear-gradient-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_linear-gradient.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/helpers/_linear-positions-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/helpers/_linear-side-corner-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_list-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_list-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_margin.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_media.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/grid/_media.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_miscellaneous.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/base/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_modals.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/functions/_modular-scale.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_nav-divider.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_nav-vertical-align.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_navbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_navs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/_neat-helpers.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/_neat.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/functions/_new-breakpoint.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_normalize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/grid/_omega.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_opacity.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/grid/_outer-container.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/grid/_pad.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_padding.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_pager.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_pages.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_panels.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_panels.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_perspective.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_placeholder.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_popovers.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_position.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_prefixer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/settings/_prefixer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_print.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/functions/_private.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/grid/_private.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_product.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_progress-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_progress-bars.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/functions/_px-to-em.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/settings/_px-to-em.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/functions/_px-to-rem.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/helpers/_radial-arg-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/helpers/_radial-gradient-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_radial-gradient.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/helpers/_radial-positions-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/helpers/_render-gradients.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_reset-filter.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_resize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_responsive-embed.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_responsive-utilities.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_responsive-visibility.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_retina-image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/grid/_row.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_scaffolding.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_selection.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/functions/_shade.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/helpers/_shape-size-stripper.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_sherpa-fund.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/grid/_shift.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_size.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_size.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_slick-theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_slick.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/grid/_span-columns.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/helpers/_str-to-num.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/functions/_strip-units.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_tab-focus.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_table-row.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_tables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_text-decoration.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_text-emphasis.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_text-inputs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_text-overflow.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_thumbnails.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_timing-functions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/functions/_tint.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/grid/_to-deprecate.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_tooltip.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_transform.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/functions/_transition-property-name.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_transition.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_triangle.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_type.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/functions/_unpack.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/css3/_user-select.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_utilities.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/base/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_vendor-prefixes.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/grid/_visual-grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/neat/settings/_visual-grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/stylesheets/bootstrap/_wells.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bourbon/addons/_word-wrap.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/account.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/adress_book.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/blank_template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/careers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/collection.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/contact-us.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/email-signup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/faq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/instagram.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/js/jquery.stellar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/js/jquery.stellar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/js/jquery.waitforimages.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/js/jquery.waitforimages.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/js/parallax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/js/parallax.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/product.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/sache.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/js/sherpa-fund.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/js/sherpa-fund.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sherpa.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sherpa.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sherpa.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sherpa.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sherpa_dev.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sherpa_dev.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sherpa_dev.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sherpa_dev.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/shipping-info.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/js/slick.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/warranty.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_checkout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_common.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/home-nepal-trip-winner.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/home_nepal-trip-vote.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/nepal-trip-contest-thanks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/nepal-trip-contest-vote.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/nepal-trip-contest-winner.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/nepal-trip-contest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_templates/nepal-trip-contest_v2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/001_test_basic/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/001_test_basic/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/002_test_basic/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/002_test_basic/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/003_test_basic/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/003_test_basic/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/004_test_basic/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/004_test_basic/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/005_test_multiple_targets/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/005_test_multiple_targets/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/006_test_multiple_extendees/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/006_test_multiple_extendees/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/011_test_chained_extends/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/011_test_chained_extends/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/012_test_dynamic_extendee/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/012_test_dynamic_extendee/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/013_test_dynamic_extendee/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/013_test_dynamic_extendee/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/014_test_nested_target/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/014_test_nested_target/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/015_test_target_with_child/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/015_test_target_with_child/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/016_test_class_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/016_test_class_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/017_test_class_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/017_test_class_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/018_test_id_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/018_test_id_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/019_test_id_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/019_test_id_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/020_test_universal_unification_with_simple_target/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/020_test_universal_unification_with_simple_target/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/022_test_universal_unification_with_simple_target/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/022_test_universal_unification_with_simple_target/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/043_test_element_unification_with_simple_target/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/043_test_element_unification_with_simple_target/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/044_test_element_unification_with_simple_target/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/044_test_element_unification_with_simple_target/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/045_test_element_unification_with_simple_target/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/045_test_element_unification_with_simple_target/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/046_test_element_unification_with_simple_target/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/046_test_element_unification_with_simple_target/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/065_test_attribute_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/065_test_attribute_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/066_test_attribute_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/066_test_attribute_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/067_test_attribute_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/067_test_attribute_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/068_test_attribute_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/068_test_attribute_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/069_test_attribute_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/069_test_attribute_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/070_test_pseudo_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/070_test_pseudo_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/071_test_pseudo_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/071_test_pseudo_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/072_test_pseudo_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/072_test_pseudo_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/073_test_pseudo_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/073_test_pseudo_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/074_test_pseudo_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/074_test_pseudo_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/075_test_pseudo_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/075_test_pseudo_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/076_test_pseudo_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/076_test_pseudo_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/077_test_pseudo_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/077_test_pseudo_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/078_test_pseudoelement_remains_at_end_of_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/078_test_pseudoelement_remains_at_end_of_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/079_test_pseudoelement_remains_at_end_of_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/079_test_pseudoelement_remains_at_end_of_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/080_test_pseudoclass_remains_at_end_of_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/080_test_pseudoclass_remains_at_end_of_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/081_test_pseudoclass_remains_at_end_of_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/081_test_pseudoclass_remains_at_end_of_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/082_test_not_remains_at_end_of_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/082_test_not_remains_at_end_of_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/083_test_pseudoelement_goes_lefter_than_pseudoclass/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/083_test_pseudoelement_goes_lefter_than_pseudoclass/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/084_test_pseudoelement_goes_lefter_than_pseudoclass/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/084_test_pseudoelement_goes_lefter_than_pseudoclass/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/085_test_pseudoelement_goes_lefter_than_not/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/085_test_pseudoelement_goes_lefter_than_not/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/086.1_test_pseudoelement_goes_lefter_than_not/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/086.1_test_pseudoelement_goes_lefter_than_not/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/086_test_pseudoelement_goes_lefter_than_not/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/086_test_pseudoelement_goes_lefter_than_not/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/087_test_negation_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/087_test_negation_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/088_test_negation_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/088_test_negation_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/089_test_negation_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/089_test_negation_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/092_test_long_extendee/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/092_test_long_extendee/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/093_test_long_extendee_matches_supersets/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/093_test_long_extendee_matches_supersets/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/095_test_long_extender/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/095_test_long_extender/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/097_test_nested_extender/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/097_test_nested_extender/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/098_test_nested_extender_runs_unification/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/098_test_nested_extender_runs_unification/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/099_test_nested_extender_alternates_parents/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/099_test_nested_extender_alternates_parents/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/100_test_nested_extender_unifies_identical_parents/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/100_test_nested_extender_unifies_identical_parents/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/101_test_nested_extender_unifies_common_substring/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/101_test_nested_extender_unifies_common_substring/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/102_test_nested_extender_unifies_common_subseq/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/102_test_nested_extender_unifies_common_subseq/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/103_test_nested_extender_chooses_first_subseq/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/103_test_nested_extender_chooses_first_subseq/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/106_test_nested_extender_with_child_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/106_test_nested_extender_with_child_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/123_test_nested_extender_with_early_child_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/123_test_nested_extender_with_early_child_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/124_test_nested_extender_with_early_child_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/124_test_nested_extender_with_early_child_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/125_test_nested_extender_with_early_child_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/125_test_nested_extender_with_early_child_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/126_test_nested_extender_with_early_child_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/126_test_nested_extender_with_early_child_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/127_test_nested_extender_with_early_child_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/127_test_nested_extender_with_early_child_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/128_test_nested_extender_with_sibling_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/128_test_nested_extender_with_sibling_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/129_test_nested_extender_with_hacky_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/129_test_nested_extender_with_hacky_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/130_test_nested_extender_with_hacky_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/130_test_nested_extender_with_hacky_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/131_test_nested_extender_merges_with_same_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/131_test_nested_extender_merges_with_same_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/140_test_combinator_unification_double_tilde/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/140_test_combinator_unification_double_tilde/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/141_test_combinator_unification_double_tilde/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/141_test_combinator_unification_double_tilde/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/142_test_combinator_unification_double_tilde/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/142_test_combinator_unification_double_tilde/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/143_test_combinator_unification_double_tilde/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/143_test_combinator_unification_double_tilde/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/144_test_combinator_unification_tilde_plus/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/144_test_combinator_unification_tilde_plus/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/145_test_combinator_unification_tilde_plus/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/145_test_combinator_unification_tilde_plus/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/146_test_combinator_unification_tilde_plus/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/146_test_combinator_unification_tilde_plus/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/147_test_combinator_unification_tilde_plus/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/147_test_combinator_unification_tilde_plus/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/148_test_combinator_unification_tilde_plus/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/148_test_combinator_unification_tilde_plus/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/149_test_combinator_unification_tilde_plus/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/149_test_combinator_unification_tilde_plus/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/150_test_combinator_unification_tilde_plus/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/150_test_combinator_unification_tilde_plus/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/151_test_combinator_unification_tilde_plus/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/151_test_combinator_unification_tilde_plus/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/152_test_combinator_unification_angle_sibling/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/152_test_combinator_unification_angle_sibling/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/153_test_combinator_unification_angle_sibling/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/153_test_combinator_unification_angle_sibling/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/154_test_combinator_unification_angle_sibling/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/154_test_combinator_unification_angle_sibling/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/155_test_combinator_unification_angle_sibling/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/155_test_combinator_unification_angle_sibling/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/156_test_combinator_unification_double_angle/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/156_test_combinator_unification_double_angle/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/157_test_combinator_unification_double_angle/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/157_test_combinator_unification_double_angle/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/158_test_combinator_unification_double_angle/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/158_test_combinator_unification_double_angle/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/159_test_combinator_unification_double_angle/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/159_test_combinator_unification_double_angle/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/160_test_combinator_unification_double_plus/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/160_test_combinator_unification_double_plus/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/161_test_combinator_unification_double_plus/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/161_test_combinator_unification_double_plus/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/162_test_combinator_unification_double_plus/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/162_test_combinator_unification_double_plus/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/163_test_combinator_unification_double_plus/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/163_test_combinator_unification_double_plus/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/164_test_combinator_unification_angle_space/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/164_test_combinator_unification_angle_space/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/165_test_combinator_unification_angle_space/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/165_test_combinator_unification_angle_space/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/166_test_combinator_unification_angle_space/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/166_test_combinator_unification_angle_space/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/167_test_combinator_unification_angle_space/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/167_test_combinator_unification_angle_space/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/168_test_combinator_unification_angle_space/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/168_test_combinator_unification_angle_space/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/169_test_combinator_unification_angle_space/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/169_test_combinator_unification_angle_space/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/170_test_combinator_unification_plus_space/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/170_test_combinator_unification_plus_space/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/171_test_combinator_unification_plus_space/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/171_test_combinator_unification_plus_space/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/172_test_combinator_unification_plus_space/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/172_test_combinator_unification_plus_space/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/173_test_combinator_unification_plus_space/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/173_test_combinator_unification_plus_space/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/174_test_combinator_unification_plus_space/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/174_test_combinator_unification_plus_space/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/175_test_combinator_unification_plus_space/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/175_test_combinator_unification_plus_space/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/176_test_combinator_unification_nested/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/176_test_combinator_unification_nested/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/177_test_combinator_unification_nested/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/177_test_combinator_unification_nested/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/178_test_combinator_unification_with_newlines/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/178_test_combinator_unification_with_newlines/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/179_test_extend_self_loop/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/179_test_extend_self_loop/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/182_test_nested_extend_loop/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/182_test_nested_extend_loop/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/184_test_control_flow_if/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/184_test_control_flow_if/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/185_test_control_flow_for/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/185_test_control_flow_for/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/186_test_control_flow_while/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/186_test_control_flow_while/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/187_test_basic_placeholder_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/187_test_basic_placeholder_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/188_test_unused_placeholder_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/188_test_unused_placeholder_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/189_test_placeholder_descendant_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/189_test_placeholder_descendant_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/190_test_semi_placeholder_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/190_test_semi_placeholder_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/192_test_placeholder_interpolation/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/192_test_placeholder_interpolation/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/193_test_media_in_placeholder_selector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/193_test_media_in_placeholder_selector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/194_test_extend_within_media/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/194_test_extend_within_media/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/195_test_extend_within_unknown_directive/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/195_test_extend_within_unknown_directive/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/196_test_extend_within_nested_directives/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/196_test_extend_within_nested_directives/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/197_test_extend_within_disparate_media/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/197_test_extend_within_disparate_media/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/198_test_extend_within_disparate_unknown_directive/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/198_test_extend_within_disparate_unknown_directive/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/199_test_extend_within_disparate_nested_directives/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/199_test_extend_within_disparate_nested_directives/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/209_test_pseudo_element_superselector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/209_test_pseudo_element_superselector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/210_test_pseudo_element_superselector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/210_test_pseudo_element_superselector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/211_test_pseudo_element_superselector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/211_test_pseudo_element_superselector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/212_test_pseudo_element_superselector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/212_test_pseudo_element_superselector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/213_test_pseudo_element_superselector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/213_test_pseudo_element_superselector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/214_test_pseudo_element_superselector/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/214_test_pseudo_element_superselector/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/215_test_multiple_source_redundancy_elimination/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/215_test_multiple_source_redundancy_elimination/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/216_test_nested_sibling_extend/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/216_test_nested_sibling_extend/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/217_test_parent_and_sibling_extend/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/217_test_parent_and_sibling_extend/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/218_test_nested_extend_specificity/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/218_test_nested_extend_specificity/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/219_test_nested_double_extend_optimization/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/219_test_nested_double_extend_optimization/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/221_test_partially_failed_extend/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/221_test_partially_failed_extend/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/222_test_newline_near_combinator/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/222_test_newline_near_combinator/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/223_test_duplicated_selector_with_newlines/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/223_test_duplicated_selector_with_newlines/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/233_test_extend_cross_branch_redundancy_elimination/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/233_test_extend_cross_branch_redundancy_elimination/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/does_not_move_page_block_in_media/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/does_not_move_page_block_in_media/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/issue_146/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/extend-tests/issue_146/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/regressions/226_test_nested_selector_with_child_selector_hack_extender_and_extendee/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/regressions/226_test_nested_selector_with_child_selector_hack_extender_and_extendee/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/regressions/placeholder-mediaquery/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/regressions/placeholder-mediaquery/input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/regressions/placeholder-nested/expected_output.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/bootstrap-sass/node_modules/node-sass/test/fixtures/spec/spec/regressions/placeholder-nested/input.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/base/_breakpoints.scss" afterPath="$PROJECT_DIR$/base/_breakpoints.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/base/_variables.scss" afterPath="$PROJECT_DIR$/base/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/_cart.scss" afterPath="$PROJECT_DIR$/components/_cart.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/_collection.scss" afterPath="$PROJECT_DIR$/components/_collection.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/_customer.scss" afterPath="$PROJECT_DIR$/components/_customer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/_header.scss" afterPath="$PROJECT_DIR$/components/_header.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/_home.scss" afterPath="$PROJECT_DIR$/components/_home.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/_pages.scss" afterPath="$PROJECT_DIR$/components/_pages.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/_product.scss" afterPath="$PROJECT_DIR$/components/_product.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sherpa.css" afterPath="$PROJECT_DIR$/sherpa.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sherpa.css.map" afterPath="$PROJECT_DIR$/sherpa.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sherpa.min.css" afterPath="$PROJECT_DIR$/sherpa.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sherpa.scss" afterPath="$PROJECT_DIR$/sherpa.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sherpa_dev.css" afterPath="$PROJECT_DIR$/sherpa_dev.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sherpa_dev.css.map" afterPath="$PROJECT_DIR$/sherpa_dev.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sherpa_dev.min.css" afterPath="$PROJECT_DIR$/sherpa_dev.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sherpa_dev.scss" afterPath="$PROJECT_DIR$/sherpa_dev.scss" />
     </list>
     <ignored path="Sherpa Adventure Gear.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -403,19 +327,69 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Sherpa Adventure Gear" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="sherpa.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sherpa.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="0" column="4475" lean-forward="false" selection-start-line="0" selection-start-column="4475" selection-end-line="0" selection-end-column="4475" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sherpa.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sherpa.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>strike</find>
+      <find>our_price</find>
+      <find>order-confirm</find>
+      <find>total</find>
+      <find>h3</find>
+      <find>h2</find>
+      <find>h4</find>
+      <find>:not</find>
+      <find>h5</find>
+      <find>order-numbr</find>
+      <find>print</find>
+      <find>#c6aa76</find>
+      <find>c6aa76</find>
+      <find>cust-serv</find>
+      <find>nobl</find>
+      <find>noble</find>
+      <find>#checkout</find>
+      <find>label</find>
+      <find>country-blb</find>
+      <find>.featured</find>
+      <find>promo-code</find>
+      <find>transform-or</find>
+      <find>nav</find>
+      <find>transform</find>
+      <find>transform:</find>
+      <find>calc(</find>
+      <find>calc</find>
+      <find>megana</find>
+      <find>#mc-banner</find>
+      <find>mc-banner</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -431,35 +405,54 @@
         <option value="$PROJECT_DIR$/components/_fonts.scss" />
         <option value="$PROJECT_DIR$/components/_fonts_dev.scss" />
         <option value="$PROJECT_DIR$/base/_mixins.scss" />
-        <option value="$PROJECT_DIR$/sherpa_dev.scss" />
         <option value="$PROJECT_DIR$/html_templates/sherpa-fund.html" />
         <option value="$PROJECT_DIR$/html_templates/faq.html" />
         <option value="$PROJECT_DIR$/html_templates/home.html" />
         <option value="$PROJECT_DIR$/html_templates/blank_template.html" />
         <option value="$PROJECT_DIR$/html_templates/adress_book.html" />
         <option value="$PROJECT_DIR$/html_templates/warranty.html" />
+        <option value="$PROJECT_DIR$/html_templates/nepal-trip-contest-thanks.html" />
+        <option value="$PROJECT_DIR$/html_templates/nepal-trip-contest.html" />
+        <option value="$PROJECT_DIR$/html_templates/nepal-trip-contest_v2.html" />
+        <option value="$PROJECT_DIR$/html_templates/events.html" />
+        <option value="$PROJECT_DIR$/html_templates/nepal-trip-contest-vote.html" />
+        <option value="$PROJECT_DIR$/html_templates/home_nepal-tip-vote.html" />
+        <option value="$PROJECT_DIR$/html_templates/home_nepal-trip-winner.html" />
+        <option value="$PROJECT_DIR$/html_templates/home-nepal-trip-winner.html" />
+        <option value="$PROJECT_DIR$/components/_pages.scss" />
+        <option value="$PROJECT_DIR$/html_templates/nepal-trip-contest-winner.html" />
+        <option value="$PROJECT_DIR$/base/_breakpoints.scss" />
+        <option value="$PROJECT_DIR$/sherpa_dev.scss" />
+        <option value="$PROJECT_DIR$/sherpa.scss" />
+        <option value="$PROJECT_DIR$/components/_common.scss" />
+        <option value="$PROJECT_DIR$/components/_product.scss" />
+        <option value="$PROJECT_DIR$/components/_customer.scss" />
+        <option value="$PROJECT_DIR$/components/_checkout.scss" />
+        <option value="$PROJECT_DIR$/components/_cart.scss" />
+        <option value="$PROJECT_DIR$/components/_home.scss" />
+        <option value="$PROJECT_DIR$/components/_header.scss" />
+        <option value="$PROJECT_DIR$/sherpa.min.css" />
+        <option value="$PROJECT_DIR$/components/_collection.scss" />
+        <option value="$PROJECT_DIR$/base/_variables.scss" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/tools/bootstrap-sass/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="137" />
+    <option name="y" value="-13" />
     <option name="width" value="1936" />
-    <option name="height" value="1186" />
+    <option name="height" value="1216" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -471,29 +464,43 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sherpa Adventure Gear" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sherpa Adventure Gear" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sherpa-Adventure-Gear" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="Sherpa Adventure Gear" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sherpa-Adventure-Gear" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sherpa Adventure Gear" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sherpa-Adventure-Gear" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sherpa Adventure Gear" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sherpa-Adventure-Gear" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sherpa Adventure Gear" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sherpa-Adventure-Gear" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sherpa Adventure Gear" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sherpa-Adventure-Gear" type="462c0819:PsiDirectoryNode" />
+              <item name="sherpa.scss" type="620a8d5e:NestingTreeNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -502,8 +509,10 @@
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/GitHub, Inc/Git Shell.lnk" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -513,28 +522,57 @@
       <recent name="C:\Users\davem\WebstormProjects\Sherpa Adventure Gear\tools" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <method />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
-    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="Chrome" />
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
       <method />
     </configuration>
     <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
@@ -543,18 +581,30 @@
       <option name="filePath" />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <pass-parent-envs>true</pass-parent-envs>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
-    <list size="0" />
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -563,59 +613,82 @@
       <changelist id="836621c5-9433-471f-963d-276286d0ea9a" name="Default" comment="" />
       <created>1485474845103</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1485474845103</updated>
+      <workItem from="1488413457876" duration="1953000" />
+      <workItem from="1488577197634" duration="14000" />
+      <workItem from="1488913669462" duration="6190000" />
+      <workItem from="1489186477277" duration="41339000" />
+      <workItem from="1489693507932" duration="8886000" />
+      <workItem from="1489781829712" duration="1585000" />
+      <workItem from="1489796425687" duration="9000" />
+      <workItem from="1489796450032" duration="26631000" />
+      <workItem from="1490126968450" duration="43000" />
+      <workItem from="1490196821773" duration="20649000" />
+      <workItem from="1490734761105" duration="2899000" />
+      <workItem from="1490822191244" duration="1888000" />
+      <workItem from="1491004375129" duration="7000" />
+      <workItem from="1491004390766" duration="662000" />
+      <workItem from="1491513949421" duration="1297000" />
+      <workItem from="1491608200700" duration="5000" />
+      <workItem from="1491933742960" duration="1286000" />
+      <workItem from="1492107542207" duration="37124000" />
+      <workItem from="1493230528380" duration="10089000" />
+      <workItem from="1494003686709" duration="2477000" />
+      <workItem from="1494012674778" duration="1199000" />
+      <workItem from="1494437148083" duration="13711000" />
+      <workItem from="1494520589010" duration="35000" />
+      <workItem from="1494520986015" duration="75000" />
+      <workItem from="1500585751124" duration="8884000" />
+      <workItem from="1501084525002" duration="10954000" />
+      <workItem from="1501519776985" duration="10396000" />
+      <workItem from="1501791172442" duration="5247000" />
+      <workItem from="1502314286764" duration="44000" />
+      <workItem from="1502314347713" duration="10000" />
+      <workItem from="1502820687244" duration="10066000" />
     </task>
+    <task id="LOCAL-00001" summary="Sherpa Adventure Gear">
+      <created>1485478607194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1485478607194</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="225654000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1186" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1828125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2783985" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931355" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931355" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="REST Client" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32931355" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931355" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -629,9 +702,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
     <MESSAGE value="Sherpa Adventure Gear" />
     <option name="LAST_COMMIT_MESSAGE" value="Sherpa Adventure Gear" />
   </component>
@@ -643,120 +713,177 @@
           <line>28</line>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sherpa.css">
+    <entry file="file://$PROJECT_DIR$/html_templates/nepal-trip-contest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="61830">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="900">
+          <caret line="223" column="90" lean-forward="false" selection-start-line="223" selection-start-column="90" selection-end-line="223" selection-end-column="90" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sherpa.min.css">
+    <entry file="file://$PROJECT_DIR$/components/_pages.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html_templates/account.html">
+    <entry file="file://$PROJECT_DIR$/components/_cart.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40469208" vertical-offset="0" max-vertical-offset="5994">
-          <caret line="23" column="84" selection-start-line="23" selection-start-column="84" selection-end-line="23" selection-end-column="84" />
+        <state relative-caret-position="144">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base/_mixins.scss">
+    <entry file="file://$PROJECT_DIR$/components/_home.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5982405" vertical-offset="324" max-vertical-offset="1494">
-          <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/base/_breakpoints.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sherpa.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1492" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="76225" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/_cart.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/_home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/_breakpoints.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sherpa.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1492" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="76225" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sherpa.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/_cart.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_templates/account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="23" column="84" lean-forward="false" selection-start-line="23" selection-start-column="84" selection-end-line="23" selection-end-column="84" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sherpa_dev.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="61830">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sherpa_dev.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14076246" vertical-offset="0" max-vertical-offset="1023">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/_fonts_dev.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.052785926" vertical-offset="0" max-vertical-offset="1023">
-          <caret line="3" column="146" selection-start-line="3" selection-start-column="146" selection-end-line="3" selection-end-column="146" />
+        <state relative-caret-position="0">
+          <caret line="3" column="146" lean-forward="false" selection-start-line="3" selection-start-column="146" selection-end-line="3" selection-end-column="146" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/_fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07038123" vertical-offset="0" max-vertical-offset="1023">
-          <caret line="4" column="123" selection-start-line="4" selection-start-column="123" selection-end-line="4" selection-end-column="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sherpa.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22873901" vertical-offset="0" max-vertical-offset="1023">
-          <caret line="13" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html_templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.1188118" vertical-offset="5724" max-vertical-offset="9990">
-          <caret line="493" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="549" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="4" column="123" lean-forward="false" selection-start-line="4" selection-start-column="123" selection-end-line="4" selection-end-column="123" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html_templates/adress_book.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7704">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html_templates/warranty.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.7267327" vertical-offset="1348" max-vertical-offset="7218">
-          <caret line="284" column="34" selection-start-line="284" selection-start-column="34" selection-end-line="284" selection-end-column="34" />
+        <state relative-caret-position="0">
+          <caret line="284" column="34" lean-forward="false" selection-start-line="284" selection-start-column="34" selection-end-line="284" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html_templates/faq.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42772278" vertical-offset="0" max-vertical-offset="8766">
-          <caret line="24" column="81" selection-start-line="24" selection-start-column="81" selection-end-line="24" selection-end-column="81" />
+        <state relative-caret-position="0">
+          <caret line="24" column="81" lean-forward="false" selection-start-line="24" selection-start-column="81" selection-end-line="24" selection-end-column="81" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html_templates/instagram.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.43695" vertical-offset="5562" max-vertical-offset="6588">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sherpa.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_templates/images/nepal-trip-contest/nepal-contest-main-bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sherpa_dev.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html_templates/blank_template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33431086" vertical-offset="0" max-vertical-offset="1023">
-          <caret line="269" column="9" selection-start-line="269" selection-start-column="9" selection-end-line="269" selection-end-column="9" />
+        <state relative-caret-position="342">
+          <caret line="269" column="9" lean-forward="true" selection-start-line="269" selection-start-column="9" selection-end-line="269" selection-end-column="9" />
           <folding>
             <element signature="e#16#98#0" expanded="false" />
             <element signature="e#99#171#0" expanded="false" />
@@ -767,6 +894,204 @@
             <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_templates/nepal-trip-contest-thanks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="240" column="0" lean-forward="false" selection-start-line="240" selection-start-column="0" selection-end-line="248" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_templates/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="570" column="0" lean-forward="false" selection-start-line="570" selection-start-column="0" selection-end-line="577" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_templates/events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1250">
+          <caret line="276" column="65" lean-forward="false" selection-start-line="276" selection-start-column="65" selection-end-line="276" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_templates/nepal-trip-contest_v2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="289" column="0" lean-forward="true" selection-start-line="289" selection-start-column="0" selection-end-line="289" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_templates/nepal-trip-contest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="240" column="16" lean-forward="false" selection-start-line="240" selection-start-column="16" selection-end-line="240" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_templates/nepal-trip-contest-vote.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="292" column="30" lean-forward="true" selection-start-line="292" selection-start-column="30" selection-end-line="292" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_templates/home-nepal-trip-winner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="503" column="38" lean-forward="true" selection-start-line="503" selection-start-column="38" selection-end-line="503" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_templates/home_nepal-trip-vote.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="271" column="46" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="534" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/_pages.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="1299" column="33" lean-forward="true" selection-start-line="1299" selection-start-column="33" selection-end-line="1299" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_templates/nepal-trip-contest-winner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="490" column="93" lean-forward="true" selection-start-line="490" selection-start-column="93" selection-end-line="490" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sherpa_dev.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/_common.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="56" column="21" lean-forward="false" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/bootstrap-sass/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/_product.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="242" column="52" lean-forward="true" selection-start-line="242" selection-start-column="52" selection-end-line="242" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/_customer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="208" column="46" lean-forward="true" selection-start-line="208" selection-start-column="46" selection-end-line="209" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/_checkout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/_cart.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="334" column="28" lean-forward="false" selection-start-line="334" selection-start-column="28" selection-end-line="334" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/_home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="136" column="28" lean-forward="false" selection-start-line="136" selection-start-column="23" selection-end-line="136" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="433" column="9" lean-forward="false" selection-start-line="433" selection-start-column="9" selection-end-line="433" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="60" lean-forward="true" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/_breakpoints.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/_collection.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="742" column="9" lean-forward="true" selection-start-line="709" selection-start-column="8" selection-end-line="742" selection-end-column="9" />
+          <folding>
+            <element signature="e#9820#13423#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sherpa.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="0" column="4475" lean-forward="false" selection-start-line="0" selection-start-column="4475" selection-end-line="0" selection-end-column="4475" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sherpa.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -319,3 +319,1229 @@
     }
 
 }
+
+
+/* Nepal Contest Page V1 and V2 Shared CSS */
+#nepal-contest-v1, #nepal-contest-v2 {
+    max-width: 1900px;
+    margin-left: auto;
+    margin-right: auto;
+    .hero {
+        position: relative;
+        height: 600px;
+        background: #F9F9F9 url(https://cdn.shopify.com/s/files/1/1369/1403/files/nepal-contest-main-bg.jpg?12213121837376215906) top center no-repeat;
+        @media(min-width: $mobile-wide) {
+            height: 1043px;
+        }
+        &.thanks {
+            background: #FFF2E4 url(https://cdn.shopify.com/s/files/1/1369/1403/files/nepal-contest-thanks-bg.jpg?8633533364183255951) top center no-repeat;
+            color: black;
+            height: 1349px;
+
+            img {
+                width: 90%;
+                max-width: 285px;
+            }
+            .hero-text {
+                color: black;
+                text-shadow: none;
+                top: 7%;
+                h2 {
+                    margin-top: 67px;
+                    font-size: 17px;
+                    .bigger {
+                        font-size: 28px;
+                    }
+                }
+                hr {
+                    border-bottom: 2px solid black;
+                    border-top: none;
+                    max-width: 300px;
+                    &.small {
+                        border-bottom: 1px solid black;
+                        width: 100px;
+                        margin-top: 36px;
+                        margin-bottom: 36px;
+                    }
+                }
+                h3 {
+                    font-size: 38px;
+                    margin-bottom: 18px;
+                }
+                h4 {
+                    font-size: 83px;
+                    margin-bottom: 3px;
+                }
+                h5 {
+                    font-size: 48px;
+                    text-transform: uppercase;
+                    width: 90%;
+                    max-width: 625px;
+                    margin-left: auto;
+                    margin-right: auto;
+                    margin-top: 80px;
+                    @media(min-width: $mobile-wide) {
+                        font-size: 75px;
+                    }
+                }
+                p {
+                    font-size: 25px;
+                    width: 90%;
+                    max-width: 451px;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+            }
+            .social {
+                margin-bottom: 100px;
+                p {
+                    text-transform: uppercase;
+                    font-family: $font-myriad-pro;
+                    font-size: 18px;
+                    font-weight: bold;
+                }
+                img {
+                    width: 43px;
+                }
+            }
+        }
+
+        &-text {
+            position: absolute;
+            text-align: center;
+            color: white;
+            width: 100%;
+            top: 11%;
+            text-shadow: 0 0 23px rgba(0, 0, 0, 1);
+            img {
+                width: 90%;
+                max-width: 420px;
+                margin-bottom: -55px;
+            }
+            h2 {
+                font-size: 14px;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                margin-top: 15px;
+                .bigger {
+                    font-size: 24px;
+                    @media(min-width: $mobile-wide) {
+                        font-size: 38px;
+                    }
+                }
+                @media(min-width: $mobile-wide) {
+                    font-size: 32px;
+                }
+            }
+            hr {
+                width: 90%;
+                max-width: 563px;
+                margin: 0 auto;
+                border-bottom: 4px solid white;
+            }
+            h3 {
+                font-size: 40px;
+                margin-top: 16px;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                @media(min-width: $mobile-wide) {
+                    font-size: 58px;
+                    margin-top: 20px;
+                }
+            }
+            h4 {
+                font-size: 76px;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                margin-top: -10px;
+                margin-bottom: 0;
+                @media(min-width: $mobile-wide) {
+                    font-size: 109px;
+                }
+                @media(min-width: $tablet) {
+                    font-size: 178px;
+                    margin-bottom: -19px;
+                }
+            }
+            p {
+                font-family: $font-burin-roman-std;
+                font-size: 21px;
+                margin-top: 22px;
+            }
+            .btn {
+                font-family: $font-burin-roman-std;
+                text-transform: uppercase;
+                font-size: 21px;
+                padding: 18px 44px;
+                background: $sherpa-red;
+                color: white;
+                text-shadow: none;
+                margin-top: 20px;
+                @include transition(all 0.3s ease);
+                &:hover {
+                    background: white;
+                    color: $sherpa-red;
+                }
+                border-radius: 0;
+            }
+        }
+    }
+}
+
+/* Nepal Contest Page V1 */
+#nepal-contest-v1 {
+    .adventurers {
+        background: #7390AD url(https://cdn.shopify.com/s/files/1/1369/1403/files/nepal-contest-nepal-boats.jpg?12213121837376215906) top center no-repeat;
+        height: 914px;
+        text-align: center;
+        color: white;
+        padding-top: 22%;
+        @media(min-width:$mobile-wide) {
+            padding-top: 10%;
+        }
+
+        h2 {
+            font-size: 37px;
+            margin-top: 0;
+            text-transform: uppercase;
+            @media(min-width:$mobile-wide) {
+                font-size: 64px;
+            }
+            @media(min-width:$tablet) {
+                font-size: 80px;
+            }
+        }
+        p {
+            width: 90%;
+            max-width: 700px;
+            margin: 0 auto;
+            font-size: 20px;
+            padding-bottom: 37px;
+        }
+    }
+    .grand-prize {
+        background: #FFF2E4 url(https://cdn.shopify.com/s/files/1/1369/1403/files/nepal-contest-grandprize-bg.jpg?12213121837376215906) top center no-repeat;
+        .left {
+            background: $sherpa-red url(https://cdn.shopify.com/s/files/1/1369/1403/files/nepal-contest-grandprize-bg-red-pattern.jpg?12213121837376215906) top center no-repeat;
+            background-size: cover;
+            width: 100%;
+            max-width: 608px;
+            color: white;
+            text-align: center;
+            padding: 11% 5%;
+            margin-left: 0;
+            @media(min-width:$laptop) {
+                padding: 90px 64px;
+                margin-left: 10%;
+            }
+            p {
+                font-size: 16px;
+                @media(min-width:$mobile-wide) {
+                    font-size: 20px;
+                }
+                span {
+                    @media(max-width:$mobile-wide) {
+                        display: block;
+                        width: 100%;
+                    }
+                }
+            }
+            img {
+                width: 90%;
+                max-width: 248px;
+            }
+            a {
+                color: white;
+                text-decoration: underline;
+            }
+            h2 {
+                font-size: 38px;
+                text-transform: uppercase;
+                @media(min-width:$mobile-wide) {
+                    font-size: 57px;
+                }
+                @media(min-width:$tablet) {
+                    font-size: 70px;
+                }
+            }
+            h3 {
+                font-size: 29px;
+                text-transform: uppercase;
+                margin-top: 25px;
+                margin-bottom: 0;
+                &.gold {
+                    color: #f9bc00 !important;
+                }
+                @media(min-width:$mobile-wide) {
+                    margin-top: 47px;
+                    font-size: 32px;
+                }
+            }
+            hr {
+                margin-top: 29px;
+                @media(min-width:$mobile-wide) {
+                    margin-top: 53px;
+                }
+
+            }
+        }
+    }
+    .enter {
+        margin-top: 130px;
+        h2 {
+            text-align: center;
+            text-transform: uppercase;
+            font-size: 37px;
+            @media(min-width:$mobile-wide) {
+                font-size: 65px;
+            }
+        }
+        p.line-behind {
+            position: relative;
+            overflow: hidden;
+            font-family: $font-myriad-pro;
+            font-size: 18px;
+            text-align: center;
+            width: 90%;
+            max-width: 505px;
+            margin: 0 auto;
+            span {
+                display: inline-block;
+                vertical-align: baseline;
+                zoom: 1;
+                *display: inline;
+                *vertical-align: auto;
+                position: relative;
+                padding: 0 10px;
+
+                &:before, &:after {
+                    content: '';
+                    display: block;
+                    width: 1000px;
+                    position: absolute;
+                    top: 0.73em;
+                    border-top: 1px solid $sherpa-red;
+                }
+
+                &:before { right: 100%; }
+                &:after { left: 100%; }
+            }
+        }
+        .form {
+            width: 100%;
+            max-width: 605px;
+            margin: 0 auto;
+        }
+        a.rules {
+            color: $grey;
+            text-align: center;
+            display: block;
+            text-decoration: underline;
+            margin-bottom: 50px;
+        }
+
+    }
+}
+
+#nepal-contest-v1, #nepal-contest-vote {
+    .partners {
+        padding: 45px;
+        background: $sherpa-red;
+        color: white;
+        text-align: center;
+        h2 {
+            font-family: $font-myriad-pro;
+            text-transform: uppercase;
+            font-size: 15px;
+            margin-top: 0;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        li {
+            display: inline-block;
+            padding: 6%;
+            @media(min-width: $mobile-wide) {
+                padding: 0 2%;
+            }
+        }
+    }
+    .grand-prize {
+        background: $sherpa-red url(https://cdn.shopify.com/s/files/1/1369/1403/files/sherpa-contest-red-clouds-horizontal.jpg?7250682939878502134) no-repeat scroll center top / cover;
+        width: 100%;
+        color: white;
+        text-align: center;
+        margin-left: 0;
+        .bx {
+            @include wrap-stuff;
+        }
+        .column1, .column2 {
+            width: 100%;
+            padding: 20px;
+            @media(min-width:$tablet-wide) {
+                width: 50%;
+            }
+        }
+        p {
+            font-size: 16px;
+            @media(min-width:$mobile-wide) {
+                font-size: 20px;
+            }
+            span {
+                @media(max-width:$mobile-wide) {
+                    display: block;
+                    width: 100%;
+                }
+            }
+        }
+        img {
+            width: 90%;
+            max-width: 200px;
+        }
+        a {
+            color: white;
+            text-decoration: underline;
+        }
+        h2 {
+            font-size: 30px;
+            text-transform: uppercase;
+            @media(min-width:$mobile-wide) {
+                font-size: 40px;
+            }
+            @media(min-width:$tablet) {
+                font-size: 50px;
+            }
+        }
+        h3 {
+            font-size: 29px;
+            text-transform: uppercase;
+            margin-top: 25px;
+            margin-bottom: 0;
+            &.gold {
+                color: #f9bc00 !important;
+            }
+            @media(min-width:$mobile-wide) {
+                font-size: 32px;
+            }
+        }
+        hr {
+            margin-top: 29px;
+            @media(min-width:$mobile-wide) {
+                margin-top: 53px;
+            }
+        }
+    }
+}
+
+
+/* Nepal Contest Page V2 */
+#nepal-contest-v2 {
+    .images {
+        img {
+            width: 100%
+        }
+    }
+    .enter {
+        @include wrap-stuff();
+        .left {
+            width: 100%;
+            margin-top: 40px;
+            text-align: center;
+            @media(min-width: $tablet-wide) {
+                width: 66.666%;
+                margin-top: 100px;
+            }
+            .inner {
+                width: 90%;
+                max-width: 850px;
+                margin: 0 auto;
+            }
+            h2 {
+                text-align: center;
+                text-transform: uppercase;
+                font-size: 24px;
+                @media(min-width: $mobile-wide) {
+                    font-size: 38px;
+                }
+            }
+            h3 {
+                text-align: center;
+                text-transform: uppercase;
+                font-size: 37px;
+                margin-top: 20px;
+                @media(min-width: $mobile-wide) {
+                    font-size: 60px;
+                }
+            }
+            p {
+                font-size: 20px;
+                width: 90%;
+                margin: 20px auto;
+            }
+            .prize {
+                @media(min-width: $tablet-wide) {
+                    display: none;
+                }
+
+            }
+            .view {
+                display: block;
+                color: $sherpa-red;
+                margin-top: 20px;
+                border: 1px solid $sherpa-red;
+                width: 200px;
+                margin-left: auto;
+                margin-right: auto;
+                padding: 10px;
+                @include transition(all 0.3s ease);
+                &:hover {
+                    color: $white;
+                    background: $sherpa-red;
+                }
+            }
+            hr {
+                border-color: $light-grey;
+                @media(min-width: $tablet-wide) {
+                    display: none;
+                }
+            }
+            .form {
+                width: 100%;
+                max-width: 605px;
+                margin: 0 auto;
+            }
+            a.rules {
+                color: $grey;
+                text-align: center;
+                display: block;
+                text-decoration: underline;
+                margin-bottom: 50px;
+            }
+        }
+    }
+    .partners {
+        padding: 45px;
+        background: $sherpa-red;
+        color: white;
+        text-align: center;
+        h2 {
+            font-family: $font-myriad-pro;
+            text-transform: uppercase;
+            font-size: 15px;
+            margin-top: 0;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        li {
+            display: inline-block;
+            padding: 6%;
+            @media(min-width:$mobile-wide) {
+                padding: 0 2%;
+            }
+        }
+
+    }
+}
+.fancybox-overlay {
+    .right {
+        width: 100% !important;
+    }
+
+}
+#nepal-contest-v2 .enter, .fancybox-overlay {
+    .right {
+        background: $sherpa-red url(https://cdn.shopify.com/s/files/1/1369/1403/files/nepal-contest-grandprize-bg-red-pattern.jpg?12213121837376215906) top center no-repeat;
+        background-size: cover;
+        color: white;
+        text-align: center;
+        padding: 50px 5%;
+        margin-left: 0;
+        display: none;
+        @media(min-width: $tablet-wide) {
+            width: 33.333%;
+            display: block;
+        }
+        @media(min-width: $laptop) {
+            padding: 90px 64px;
+        }
+        p {
+            font-size: 16px;
+            @media(min-width: $mobile-wide) {
+                font-size: 20px;
+            }
+            span {
+                @media(max-width: $mobile-wide) {
+                    display: block;
+                    width: 100%;
+                }
+            }
+        }
+        img {
+            width: 90%;
+            max-width: 248px;
+        }
+        a {
+            color: white;
+            text-decoration: underline;
+        }
+        h2 {
+            font-size: 38px;
+            text-transform: uppercase;
+            margin-top: 20px;
+            @media(min-width: $mobile-wide) {
+                font-size: 50px;
+            }
+            @media(min-width: $laptop) {
+                font-size: 70px;
+            }
+        }
+        h3 {
+            font-size: 29px;
+            text-transform: uppercase;
+            margin-top: 25px;
+            margin-bottom: 0;
+            &.gold {
+                color: #f9bc00 !important;
+            }
+            @media(min-width: $mobile-wide) {
+                margin-top: 47px;
+                font-size: 32px;
+            }
+        }
+        hr {
+            margin-top: 29px;
+            @media(min-width: $mobile-wide) {
+                margin-top: 53px;
+            }
+        }
+    }
+}
+
+// Nepal Contest Image Voting Page
+#nepal-contest-vote {
+    .hero {
+        background: #7390AD url(https://cdn.shopify.com/s/files/1/1369/1403/files/nepal_trip-voting_hero-banner.jpg?7260487324975757184) top center no-repeat;
+        text-align: center;
+        padding-top: 80px;
+        height: 680px;
+        color: white;
+        @media(min-width: $mobile-wide) {
+            padding-top: 190px;
+        }
+
+        @media(min-width: $tablet-wide) {
+            height: 800px;
+        }
+        h2 {
+            font-family: $font-burin-roman-std;
+            font-weight:normal;
+            font-size: 35px;
+            margin-bottom: -7px;
+            position: relative;
+            overflow: hidden;
+            @media(min-width: $tablet-wide) {
+                font-size: 35px;
+            }
+            @media(min-width: $tablet-wide) {
+                font-size: 45px;
+            }
+            span {
+                display: inline-block;
+                vertical-align: baseline;
+                zoom: 1;
+                *display: inline;
+                *vertical-align: auto;
+                position: relative;
+                padding: 0 20px;
+                &:before, &:after {
+                    content: '';
+                    display: block;
+                    width: 122px;
+                    position: absolute;
+                    top: 21px;
+                    border-top: 2px solid white;
+                    @media(min-width: $tablet) {
+                        width: 122px;
+                    }
+                    @media(min-width: $tablet-wide) {
+                        width: 154px;
+                    }
+                    @media(min-width: $laptop) {
+                        width: 247px;
+                    }
+                }
+                &:before { right: 100%; }
+                &:after { left: 100%; }
+            }
+        }
+        h3 {
+            font-family: $font-burin-roman-std;
+            text-transform: uppercase;
+            font-size: 73px;
+            @media(min-width: $tablet) {
+                font-size: 73px;
+            }
+            @media(min-width: $tablet-wide) {
+                font-size: 92px;
+            }
+            @media(min-width: $laptop) {
+                font-size: 116px;
+            }
+
+        }
+        h4 {
+            font-family: $font-burin-roman-std;
+            font-size: 25px;
+            text-transform: uppercase;
+            margin: 0 auto;
+            width: 95%;
+            @media(min-width: $tablet) {
+                font-size: 25px;
+            }
+            @media(min-width: $tablet-wide) {
+                font-size: 30px;
+            }
+            @media(min-width: $laptop) {
+                font-size: 42px;
+            }
+        }
+        p {
+            margin: 20px auto auto;
+            max-width: 820px;
+            font-size: 1.1em;
+        }
+    }
+    .bx {
+        width: 95%;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+    .stories {
+        font-family:$font-burin-roman-std;
+        color: $text-black;
+        margin: 30px auto;
+        text-align: center;
+        ul {
+            padding-left: 0;
+            @include wrap-stuff;
+            list-style: none;
+        }
+        li {
+            width: 100%;
+            margin-bottom: 142px;
+            cursor: pointer;
+            @media(min-width: $mobile-wide) {
+                margin-right: 15px;
+                margin-bottom: 20px;
+                width: calc((100% - 15px) / 2);
+            }
+            @media(max-width: $laptop) {
+                &:nth-child(2) {
+                    margin-right: 0;
+                }
+            }
+            @media(min-width: $laptop) {
+                width: calc((100% - 45px) / 4);
+            }
+            &:last-child {
+                margin-right: 0;
+            }
+        }
+        .detail {
+            background: #f5f4f0;
+            border: 1px solid #d7d6d2;
+            border-top: none;
+            padding: 10px;
+            @media(max-width: $mobile-wide) {
+                position: absolute;
+                width: 95%;
+                margin-top: -88px;
+                padding-bottom: 37px;
+            }
+            @media(min-width: $mobile-wide) {
+                padding: 30px;
+            }
+        }
+        img {
+            width: 100%
+        }
+        h2 {
+            text-transform: uppercase;
+            font-size: 25px;
+            @media(min-width: $mobile-wide) {
+                font-size: 30px;
+            }
+        }
+        p {
+            font-size: 14px;
+            @media(min-width: $mobile-wide) {
+                font-size: 17px;
+            }
+        }
+        .read-more {
+            text-transform: uppercase;
+            color: $sherpa-red;
+            text-decoration: underline;
+            font-size: 16px;
+        }
+        &-detail {
+            margin: 0 auto;
+            .story-box {
+                display: none;
+            }
+            .story-wrap {
+                @include wrap-stuff;
+            }
+            .left {
+                width: 100%;
+                @media(min-width: $tablet) {
+                    padding: 4%;
+                    width: 55%;
+                }
+                img {
+                    width: 100%;
+                }
+            }
+            .right {
+                width: 100%;
+                margin-top: 24px;
+                @media(min-width: $tablet) {
+                    margin-top: 0;
+                    padding: 4%;
+                    width: 45%;
+                }
+                h2 {
+                    font-family:$font-burin-roman-std;
+                    text-transform: uppercase;
+                    color: $sherpa-red;
+                    font-size: 48px;
+                    text-align: center;
+                    margin-top: 0;
+                    margin-bottom: 2px;
+                }
+                h3 {
+                    font-family:$font-burin-roman-std;
+                    font-size: 18px;
+                    letter-spacing: 2px;
+                    text-align: center;
+                    text-transform: uppercase;
+                    margin-top: 0;
+                    margin-bottom: 10px;
+                }
+                hr {
+                    margin: 0 auto 10px;
+                    width: 80px;
+                    border-top: 1px solid #969696;
+                }
+                p {
+                    font-size: 16px;
+                    line-height: 26px;
+                }
+            }
+            .links {
+                margin-top: 20px;
+                text-align: center;
+                margin-bottom: 35px;
+            }
+            .btn {
+                background: $sherpa-red;
+                color: $white;
+                padding: 10px 20px;
+                border-radius: 0;
+                text-transform: uppercase;
+                font-family: $font-burin-roman-std;
+                margin-bottom: 20px;
+            }
+        }
+    }
+    .select-line {
+        border-top: 1px solid #7f7f7f;
+        position: relative;
+        margin: 0 auto 50px;
+        @media(max-width: $laptop) {
+            display: none;
+        }
+        .selected {
+            width: calc((100% - 45px) / 4);
+            margin-top: -3px;
+            position: absolute;
+            border-top: 5px solid $sherpa-red;
+            display: none;
+        }
+    }
+    .form {
+        background: #f5f4f0;
+        text-align: center;
+        font-family: $font-burin-roman-std;
+        margin: 0 auto;
+        padding-top: 45px;
+        h2 {
+
+            font-size: 37px;
+            text-transform: uppercase;
+        }
+        p {
+            font-size: 18px;
+            width: 90%;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+    }
+    .share {
+        margin-bottom: 50px;
+        position: relative;
+        z-index: 2;
+        h2 {
+            margin-top: 45px;
+            text-align: center;
+            font-size: 30px;
+            text-transform: uppercase;
+        }
+        .icons {
+            text-align: center;
+            width: 100%;
+            a {
+
+            }
+            img {
+
+            }
+        }
+    }
+    .thanks {
+        background: url(https://cdn.shopify.com/s/files/1/1369/1403/files/nepal-trip-voting_footer-background.jpg?9694853952695873054) no-repeat scroll left bottom;
+        height: 786px;
+        text-align: center;
+        color: white;
+        position: relative;
+        z-index: 1;
+        text-shadow: 1px 1px 17px rgba(0,0,0,0.5);
+        @media(min-width: $mobile-wide) {
+            background-position: 66% bottom;
+        }
+        @media(min-width: $tablet) {
+            background-position: 76% bottom;
+        }
+        div {
+            width: 95%;
+            max-width: 550px;
+            margin: 0 auto;
+            padding-top: 200px;
+            @media(min-width: $laptop) {
+                padding-top: 0;
+                position: absolute;
+                top: 200px;
+                left: 25%;
+            }
+        }
+        h2 {
+            font-size: 62px;
+            text-transform: uppercase;
+            @media(min-width: $mobile-wide) {
+                font-size: 80px;
+            }
+        }
+        h3 {
+            font-size: 35px;
+            text-transform: uppercase;
+            margin-bottom: 0;
+            margin-top: -15px;
+        }
+        hr {
+            width: 100px;
+            margin: 20px auto;
+            border-top: 1px solid white;
+        }
+        p {
+            font-family: $font-burin-roman-std;
+            font-size: 20px;
+            width: 77%;
+            margin: 0 auto 28px;
+        }
+
+        form {
+            width: 100%;
+            max-width: 370px;
+            margin: 0 auto;
+            @media(min-width: $mobile-wide) {
+                width: 375px;
+            }
+            input[type=email]{
+                padding: 8px 8px 8px 16px;
+                width: calc(100% - 125px);
+                max-width: 245px;
+                height: 40px;
+                display: block;
+                border: none;
+                float: left;
+                margin-right: 6px;
+            }
+            input[type=submit] {
+                border: 0;
+                padding: 10px;
+                width: 119px;
+                display: block;
+            }
+        }
+
+
+    }
+}
+
+.nepal-contest-winner {
+    .hero {
+        background-image: url(https://cdn.shopify.com/s/files/1/1369/1403/files/nepal-trip-winner-hero-banner.jpg?1277300863548396470) !important;
+        text-shadow: 1px 4px 5px rgba(0,0,0,0.5);
+        height: 515px !important;
+        @media(min-width: $mobile-wide) {
+            height: 680px !important;
+        }
+        h3 {
+            font-size: 27px !important;
+            @media(min-width: $mobile-wide) {
+                font-size: 63px !important;
+            }
+            @media(min-width: $tablet) {
+                font-size: 63px !important;
+            }
+            @media(min-width: $tablet-wide) {
+                font-size: 78px !important;
+            }
+            @media(min-width: $laptop) {
+                font-size: 98px !important;
+            }
+        }
+    }
+    .detail sup {
+        font-size: 10px;
+    }
+
+    .detail h3, .right h4 {
+        font-size: 18px;
+        text-transform: uppercase;
+        color: white;
+        background: #B62231;
+        padding: 10px;
+    }
+    .right h4 {
+        font-size: 24px;
+        text-align: center;
+        padding: 10px;
+        margin: 26px auto;
+    }
+    .right sup {
+        font-size: 13px;
+    }
+}
+
+// Events page
+#events {
+    background: #f2f2ed url(https://cdn.shopify.com/s/files/1/1369/1403/files/events_bg_texture.gif?14786687466162195986) top left repeat;
+    .hero {
+        background: #4a6a8d url(https://cdn.shopify.com/s/files/1/1369/1403/files/events_hero_bg.png?5858366174112345710) top center no-repeat;
+        text-align: center;
+        color: white;
+        height: 724px;
+        text-shadow: 0 0 23px rgba(0,0,0,1);
+        @media(min-width:$mobile-wide) {
+            height: 810px;
+        }
+        h2{
+            font-size: 63px;
+            padding-top: 95px;
+            text-transform: uppercase;
+            margin-top: 0;
+            @media(min-width:$mobile-wide) {
+                font-size: 90px;
+                padding-top: 276px;
+            }
+        }
+        p {
+            width: 95%;
+            max-width: 870px;
+            margin: 0 auto;
+            font-size: 20px;
+            line-height: 31px;
+        }
+    }
+    .event {
+        width: 95%;
+        max-width: 1440px;
+        margin: 0 auto;
+        h2 {
+            font-family: $font-burin-roman-std;
+            text-transform: uppercase;
+            font-size: 38px;
+            text-align: center;
+            margin-top: 50px;
+            margin-bottom: 50px;
+            @media(min-width:$mobile-wide) {
+                margin-top: 118px;
+                margin-bottom: 67px;
+            }
+        }
+        &-blocks {
+            max-width: 1220px;
+            margin: 0 auto;
+            @media(min-width:$mobile-wide) {
+                @include wrap-stuff;
+            }
+        }
+        &-block {
+            text-align: center;
+            background: white;
+            width: 100%;
+            @media(max-width:$mobile-wide) {
+                padding-bottom: 10px;
+                margin-bottom: 4%;
+            }
+            @media(min-width:$mobile-wide) {
+                margin-right: 2%;
+                width: 32%;
+            }
+            @media(min-width:$tablet) {
+                margin-right: 5.737%;
+                width: 29.5%;
+            }
+            &:last-child {
+                margin-right:0;
+            }
+            img {
+                width: 100%;
+            }
+            h3 {
+                font-family: $font-myriad-pro;
+                font-size:15px;
+                color: $sherpa-red;
+                text-transform: uppercase;
+            }
+            h4 {
+                font-family: TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
+                font-weight: bold;
+                font-size: 26px;
+            }
+            p {
+                font-family: $font-myriad-pro;
+                font-size: 15px;
+                margin-bottom:30px;
+            }
+        }
+    }
+    .tour {
+        width: 95%;
+        max-width: 1220px;
+        margin: 0 auto;
+        padding-bottom: 50px;
+        h2 {
+            font-family: $font-burin-roman-std;
+            text-transform: uppercase;
+            font-size: 38px;
+            text-align: center;
+            margin-top: 50px;
+            margin-bottom: 50px;
+            @media(min-width:$mobile-wide) {
+                margin-top: 118px;
+                margin-bottom: 40px;
+            }
+        }
+        p {
+            width: 95%;
+            max-width: 870px;
+            margin: 0 auto;
+            font-size: 25px;
+            line-height: 38px;
+            text-align: center;
+        }
+        .line-behind {
+            position: relative;
+            overflow: hidden;
+            text-align: center;
+            width: 95%;
+            max-width: 1220px;
+            margin: 36px auto;
+            span {
+                display: inline-block;
+                vertical-align: baseline;
+                zoom: 1;
+                *display: inline;
+                *vertical-align: auto;
+                position: relative;
+                padding: 0 10px;
+                &:before, &:after {
+                    content: '';
+                    display: block;
+                    width: 1000px;
+                    position: absolute;
+                    top: 1.7em;
+                    border-top: 1px solid #959592;
+                    @media(min-width:$tablet) {
+                        top: 2.2em;
+                    }
+
+                }
+                &:before { right: 100%; }
+                &:after { left: 100%; }
+            }
+            img {
+                @media(max-width:$tablet) {
+                    width: 80px;
+                }
+            }
+        }
+        &-block {
+            font-family:$font-myriad-pro;
+            font-size: 16px;
+            vertical-align: middle;
+            margin-bottom: 14px;
+            padding: 25px;
+            width: 100%;
+            background: white url(https://cdn.shopify.com/s/files/1/1369/1403/files/events_icon_marker_small_grey.png?14786687466162195986) no-repeat 30px;
+            @media(min-width:$tablet) {
+                display: table;
+                table-layout: fixed;
+            }
+            div {
+                @media(max-width:$tablet) {
+                    padding-left: 37px;
+                }
+                @media(min-width:$tablet) {
+                    display: table-cell;
+                    padding-left: 20px;
+                }
+            }
+            .name {
+                padding-left: 37px;
+                @media(max-width:$tablet) {
+                    font-weight: bold;
+                }
+                @media(min-width:$tablet) {
+                    font-family: $font-myriad-pro;
+                }
+            }
+            .location {
+                @media(min-width:$tablet) {
+                    font-family: TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
+                    font-weight: bold;
+                    font-size: 23px;
+                }
+            }
+            .link {
+                @media(min-width:$tablet) {
+                    width: 110px;
+                    text-align: right;
+                }
+                a {
+                    color: $sherpa-red;
+                    &:hover {
+                        text-decoration: underline;
+                    }
+                }
+            }
+        }
+    }
+}

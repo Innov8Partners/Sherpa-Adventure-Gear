@@ -1,0 +1,72 @@
+ul.quantity {
+    height: 31px;
+    display: block;
+    list-style: none;
+    padding: 0;
+    li {
+        float: left;
+        margin: 0 0 0 -1px;
+        position: relative;
+        a {
+            border: 1px solid $border-grey;
+            border-radius: 1px;
+            display: block;
+            height: 31px;
+            width: 31px;
+            cursor: pointer;
+            &.plus {
+                background: url(html_templates/images/btn_qty_plus.gif) center center no-repeat;
+                background:url(#{'{{ "btn_qty_plus.gif" | asset_url }}'}) center center no-repeat
+            }
+            &.minus {
+                background: url(html_templates/images/btn_qty_minus.gif) center center no-repeat;
+                background:url(#{'{{ "btn_qty_minus.gif" | asset_url }}'}) center center no-repeat;
+            }
+        }
+        input {
+            border: 1px solid $border-grey;
+            color: $text-mid-grey;
+            font-family: $futura-medium;
+            font-size: 14px;
+            height: 31px;
+            left: 0;
+            line-height: normal;
+            margin: 0;
+            padding: 2px;
+            position: relative;
+            right: 0;
+            text-align: center;
+            top: 0;
+            width: 58px;
+            background: $white;
+        }
+    }
+}
+
+.btn {
+    line-height: 34px;
+    border-radius: 0;
+    background: $sherpa-red;
+    color: white;
+    font-family: $font-burin-roman-std;
+    text-transform: uppercase;
+    display: block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    &:hover {
+        color: white;
+    }
+}

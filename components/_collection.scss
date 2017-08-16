@@ -1,6 +1,5 @@
 .mc-wrapper {
     width: 100%;
-
     a:hover {
         text-decoration: none;
     }
@@ -63,7 +62,7 @@
             @media (min-width: $tablet) {
                 min-height: 550px;
             }
-            .mc-product, .mc-sub {
+            .mc-product {
 
                 @media (min-width: $tablet) {
                     width: calc((100% - 30px) / 3);
@@ -97,10 +96,11 @@
     &.mc-no-filter {
         @media (min-width: $laptop) {
             width: 100%;
+            flex-basis: 100%;
         }
         .mc-header {
             .mc-grid {
-                .mc-product, .mc-sub {
+                .mc-product {
                     @media (min-width: $laptop) {
                         width: calc((100% - 40px) / 4);
                         margin-right: 10px;
@@ -341,7 +341,7 @@
                 background: transparent url(#{'{{ "radio-sprite-2.png" | asset_url }}'}) no-repeat 1px -49px;
 
                 margin: 6px 0 0 0;
-
+                cursor: pointer;
                 @media (min-width: $laptop) {
                     background: transparent url(html_templates/images/sherpa/catalog/radio-sprite-2.png) no-repeat 1px 4px;
                     background: transparent url(#{'{{ "radio-sprite-2.png" | asset_url }}'})no-repeat 1px 4px;
@@ -378,11 +378,7 @@
         @include wrap-stuff;
         width: 100%;
         margin-top: 32px;
-
-        &.mc-grid-sub {
-            margin-top: 0
-        }
-        .mc-product, .mc-sub {
+        .mc-product {
             @include transition(all .5s ease);
             width: calc((100% - 20px) / 2);
             margin-right: 10px;
@@ -419,9 +415,12 @@
                 @media (min-width: $mobile) {
                     font-size: 16px;
                 }
-                .compare-price {
+                .compare-price, .strike {
                     text-decoration: line-through;
                     color: darkred;
+                }
+                .strike {
+                    margin-right: 5px;
                 }
             }
             a {
@@ -483,20 +482,63 @@
                     height: 250px;
                 }
             }
-        }
-        .mc-sub {
-            a {
-                line-height: 38px;
-                &:hover {
-                    .mc-sub-thumb {
-                        @include transition(all .5s ease);
-                        box-shadow: inset 0 0 0 1000px rgba(255, 255, 255, 0);
-                        background-size: 100% auto !important
-                    }
+            &:hover .fancybox_qv {
+                @media(min-width:$tablet) {
+                    display: block;
                 }
             }
-            .mc-sub-title:after {
-                content: " \25B8"
+            .fancybox_qv {
+                position: absolute;
+                z-index: 1;
+                padding: 10px;
+                font-size: 10px;
+                right: 0;
+                top: 0;
+                text-transform: uppercase;
+                background: rgba(255,255,255,0.8);
+                display: none;
+                color: $text-black;
+                &:hover {
+                    background: rgba(255,255,255,1);
+                }
+
+            }
+        }
+        &.mc-grid-sub {
+            min-height: 0 !important;
+        }
+        .mc-sub {
+            position: relative;
+            width: 100%;
+            @media (min-width: $mobile-wide) {
+                width: calc((100% - 54px) / 3);
+                margin-right: 27px;
+            }
+            &:nth-child(3n) {
+                @media (min-width: $mobile-wide) {
+                    margin-right: 0;
+                }
+            }
+            &:hover {
+
+            }
+            a {
+                line-height: 38px;
+            }
+            .mc-sub-thumb {
+                width: 100%;
+            }
+            .mc-sub-title {
+                position: absolute;
+                bottom: 12%;
+                width: 100%;
+                text-align: center;
+                color: white;
+                text-shadow: 0 0 10px $black;
+                text-transform: uppercase;
+                font-family: $font-handle-old-style;
+                font-size: 20px;
+                letter-spacing: 1px;
             }
         }
     }
@@ -638,6 +680,14 @@ div.mc-hero {
 }
 
 #mc-banner {
+    @media (max-width: 1138px) {
+        background-size: cover !important;
+        height: 322px;
+    }
+    @media (max-width: 699px) {
+        width: 100%;
+        padding-bottom: 32%;
+    }
     @media (max-width: $tablet - 1) {
         width: 100%;
         padding-bottom: 60%;
@@ -648,6 +698,55 @@ div.mc-hero {
     }
     @media (min-width: $tablet) {
         padding-bottom: 0;
+    }
+    .details {
+        position: absolute;
+        width: 100%;
+        text-align: center;
+        color: white;
+        text-transform: uppercase;
+        font-family: $font-handle-old-style;
+        text-shadow: 1px 1px 0 black;
+        h2 {
+            font-size: 54px;
+            margin-top: 5%;
+            @media (max-width: 1350px) {
+                font-size: 45px;
+            }
+            @media (max-width: 692px) {
+                font-size: 34px;
+            }
+        }
+        h3 {
+            font-size: 45px;
+            margin-top: -15px;
+            @media (max-width: 1350px) {
+                font-size: 35px;
+            }
+            @media (max-width: 692px) {
+                font-size: 24px;
+                margin-top: 0;
+            }
+        }
+        h4 {
+            font-size: 130px;
+            @media (max-width: 1350px) {
+                font-size: 100px;
+            }
+            @media (max-width: 692px) {
+                font-size: 44px;
+            }
+        }
+        hr {
+            width: 145px;
+            border-top: 2px solid white;
+        }
+        img {
+            @media (max-width: 1138px) {
+                height: 322px;
+            }
+        }
+
     }
     img {
         display: none;
